@@ -1,0 +1,31 @@
+body {
+    background: #004630;
+}
+.Barlow{
+    font-family: 'Barlow', sans-serif;
+}
+#navbar{
+    display: flex;
+    justify-content: left;
+    width: auto;
+    margin-top: -8px;
+    margin-left: -8px;
+    margin-right: -8px;
+    background-color: #006445;
+}
+.link{
+    margin-right: auto;
+    margin-top: 18px;
+}
+.tcrlogo{
+    background: white;
+}
+a{
+    color: white;
+}
+a:hover{
+    color: #dbff4a
+}
+#botresponse{
+    color: white;
+}

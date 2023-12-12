@@ -1,0 +1,43 @@
+<mxfile host="Electron" modified="2023-11-17T08:14:19.109Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.3 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="SFYZiUb2f0p8Nl03_LN-" version="22.0.3" type="device">
+  <diagram name="Page-1" id="vZsBPDb1leVpEvLarh1n">
+    <mxGraphModel dx="1036" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="f7VC5r04aLZ2n29sQxWF-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="40" width="760" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="f7VC5r04aLZ2n29sQxWF-2" value="Welkom op de opendag van het TCR&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="100" width="560" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f7VC5r04aLZ2n29sQxWF-3" value="Chat window" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="180" width="560" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="f7VC5r04aLZ2n29sQxWF-4" value="Input Field" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="490" width="560" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tM2WgJEJiES8Ks5GEiUK-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="760" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f7VC5r04aLZ2n29sQxWF-5" value="Logo TCR" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="40" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tM2WgJEJiES8Ks5GEiUK-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="40" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tM2WgJEJiES8Ks5GEiUK-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="284" y="40" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tM2WgJEJiES8Ks5GEiUK-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="40" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tM2WgJEJiES8Ks5GEiUK-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="40" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tM2WgJEJiES8Ks5GEiUK-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
