@@ -32,14 +32,17 @@ a:hover{
     text-decoration: underline #dbff4a;
     transition: color .2s ease
 }
-#botresponse{
+#bot-response{
     color: white;
 }
-#chatbox{
+#chat-box{
     display: flex;
     flex-direction: column;
     align-content: center;
 }
 #chat{
-    align-content: center;
+}
+
+#welkom{
+    color: white;
 }
