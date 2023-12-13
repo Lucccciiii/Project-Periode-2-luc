@@ -7,13 +7,14 @@
 </head>
 <body>
 <nav id="navbar">
-    <img class="tcrlogo" alt="Logo TCR" src="../pics/tcrlogo.svg" height="64" width="180">
-    <a class="link Barlow" href="index.html">Homepage</a>
+    <img class="tcrlogo" alt="Logo TCR" src="../pics/tcrlogo.svg">
+    <a class="link Barlow first-link" href="index.html">Homepage</a>
 </nav>
-<div id="welkom"></div>
-<p id="botresponse"></p>
-<p><input id="chat" type="text" required></p>
-<p><button onclick="chatbotresponse()">Stuur</button></p>
+<div id="chatbox">
+    <p id="botresponse"></p>
+    <p style="height: 10%; width: 20%;"><input id="chat" type="text"></p>
+    <p><button onclick="chatbotresponse()">Stuur</button></p>
+</div>
 <script src="../javascript/chatbot.js"></script>
 </body>
 </html>

@@ -6,26 +6,40 @@ body {
 }
 #navbar{
     display: flex;
-    justify-content: left;
+    justify-content: space-between;
     width: auto;
-    margin-top: -8px;
-    margin-left: -8px;
-    margin-right: -8px;
+    margin-top: -0.5em;
+    margin-left: -0.5em;
+    margin-right: -0.5em;
     background-color: #006445;
 }
 .link{
     margin-right: auto;
-    margin-top: 18px;
+    margin-top: 1.125em;
+}
+.first-link{
+    margin-left: 1em;
 }
 .tcrlogo{
     background: white;
+    width: 11.25em;
+    height: 4em;
 }
 a{
     color: white;
 }
 a:hover{
-    color: #dbff4a
+    text-decoration: underline #dbff4a;
+    transition: color .2s ease
 }
 #botresponse{
     color: white;
+}
+#chatbox{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+}
+#chat{
+    align-content: center;
 }
