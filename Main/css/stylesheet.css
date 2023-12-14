@@ -22,8 +22,8 @@ body {
 }
 .tcrlogo{
     background: white;
-    width: 11.25em;
-    height: 4em;
+    max-width: 8.0625em;
+    max-height: 5.3125em;
 }
 a{
     color: white;
@@ -34,14 +34,16 @@ a:hover{
 }
 #bot-response{
     color: white;
+    width: 50em;
 }
 #chat-box{
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    align-items: center;
 }
 #chat{
-    justify-content: center;
+    align-self: center;
+    width: 12.5em;
 }
 
 #welkom{
