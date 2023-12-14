@@ -38,11 +38,21 @@ a:hover{
 #chat-box{
     display: flex;
     flex-direction: column;
-    align-content: center;
+    justify-content: center;
 }
 #chat{
+    justify-content: center;
 }
 
 #welkom{
     color: white;
+}
+#picture{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+.bear{
+    display: flex;
+    align-content: center;
 }
